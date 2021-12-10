@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "760851d8-416b-4fee-a418-79be640ac677": {
+      "ProjectGuid": "760851d8-416b-4fee-a418-79be640ac677",
+      "DisplayName": "PasswordGenerator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
